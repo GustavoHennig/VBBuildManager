@@ -1,0 +1,10 @@
+Gerenciado de Compilação VB
+
+Software para compilar projetos VB6 em lote, bastante prático.
+
+
+Mais informações e Download:
+http://gustavohe.googlepages.com/gerenciadordecompilacaovb
+
+Está também no superdownloads:
+http://superdownloads.uol.com.br/download/i41033.html
